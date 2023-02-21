@@ -4,6 +4,6 @@ I'm a university CompSci student and a passionate maker in the electronics and 3
 
 ### 👨‍💻 Projects
 
-My most recent project is a base for solderless breadboards which takes variety of extension modules. You can find the main repository [here](https://github.com/testudor/modular-breadboard-base). All parts are released as open hardware!
+My most recent project is a base for solderless breadboards which takes variety of extension modules. You can find the main repository [here](https://github.com/testudor/modular-breadboard-base). All parts are released as open hardware! It was also featured on [hackaday](https://hackaday.com/2023/02/20/tidy-breadboard-uses-banana-bread/) 😎
 
 Feel free to check out the pinned repositories on my github profile for more stuff!
